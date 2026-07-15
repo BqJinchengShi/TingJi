@@ -1,0 +1,25 @@
+# 密钥与敏感配置
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# 构建产物
+.build/
+AppIcon.png
+*.o
+*.dylib
+
+# SwiftPM
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp

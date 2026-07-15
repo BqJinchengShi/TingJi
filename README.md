@@ -2,6 +2,9 @@
 
 macOS 会议录音转写 App。录制系统音频 + 麦克风（或上传音频），自动转写成**带说话人区分和时间戳**的字幕文本。
 
+<img width="2422" height="1324" alt="image" src="https://github.com/user-attachments/assets/ea144f7b-1d81-48aa-b6c5-cc48d51b4c66" />
+
+
 ## 使用场景
 
 - **线上会议**：腾讯会议 / Zoom / 飞书等。系统音频录线上人声，麦克风录你说话，转写后区分说话人。
